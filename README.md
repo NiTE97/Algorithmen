@@ -3,7 +3,7 @@
 ## Sortieralgorithmen
 [X] BubbleSort<br>
 [X] SelectionSort<br>
-[] InsertionSort<br>
+[X] InsertionSort<br>
 [] MergeSort<br>
 [] QuickSort<br>
 [] CountingSort<br>
