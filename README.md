@@ -1,15 +1,15 @@
 # Sortieralgorithmen zum Verwenden in Java
 
 ## Sortieralgorithmen
-[] BubbleSort
-[] SelectionSort
-[] InsertionSort
-[] MergeSort
-[] QuickSort
-[] CountingSort
+[] BubbleSort<br>
+[] SelectionSort<br>
+[] InsertionSort<br>
+[] MergeSort<br>
+[] QuickSort<br>
+[] CountingSort<br>
 
 ## Suchalgorithmen
-[] Lineare Suche
-[] Binäre Suche
+[] Lineare Suche<br>
+[] Binäre Suche<br>
 
 
