@@ -1,7 +1,7 @@
 # Sortieralgorithmen zum Verwenden in Java
 
 ## Sortieralgorithmen
-[] BubbleSort<br>
+[X] BubbleSort<br>
 [] SelectionSort<br>
 [] InsertionSort<br>
 [] MergeSort<br>
