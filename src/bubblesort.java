@@ -1,9 +1,11 @@
 public class BubbleSort {
 	
-	//BubbleSort Algorithmus
-	//
-	//@param a Zu sortierendes Array
-	//@return Sortiertes Array
+	/**
+	 * BubbleSort (Sortieren durch Vertauschen)
+	 *
+	 * @param a Zu sortierendes Array
+	 * @return Sortiertes Array
+	 */
 	public static int [] bubbleSort (int [] a) {
 		//Sortierter Bereich a[i] ... a [n-1]
 		for (int i = a.length; i > 0; i--) {
