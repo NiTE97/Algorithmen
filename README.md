@@ -1,8 +1,6 @@
-//////////////////////////////////////////////////
-/////// Algorithmen zum Verwenden in Java ////////
-//////////////////////////////////////////////////
+#Sortieralgorithmen zum Verwenden in Java
 
-# Sortieralgorithmen
+## Sortieralgorithmen
 [] BubbleSort
 [] SelectionSort
 [] InsertionSort
@@ -10,7 +8,7 @@
 [] QuickSort
 [] CountingSort
 
-# Suchalgorithmen
+## Suchalgorithmen
 [] Lineare Suche
 [] Binäre Suche
 
